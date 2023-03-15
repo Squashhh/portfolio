@@ -1,2 +1,2 @@
 # Squashhh | Portfolio
-My portfolio, here, find all my projects. Written in HTML & CSS.
+My portfolio, here, find all my projects. Written in HTML & CSS !
