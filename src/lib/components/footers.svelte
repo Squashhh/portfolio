@@ -3,7 +3,7 @@
     <a href="https://github.com/Squashhh" target="_blank">Made with ❤ Squash</a>
     <h2>©2023</h2>
   </div>
-  <a href="https://github.com" target="_blank"><img src="/GitHub.png" alt="GitHub" id="GitHub"></a>
+  <a href="https://github.com/Squashhh" target="_blank"><img src="/GitHub.png" alt="GitHub" id="GitHub"></a>
 </ul>
 
 <style>
