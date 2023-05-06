@@ -7,7 +7,7 @@
     </div>
     <h2>18/04/2023</h2>
     <img src="/five.png" alt="cookiesbaba Notice" id="notice">
-    <h3>Écoute toutes les demandes et fais le travail parfaitement.</h3>
+    <h3>Écoute tous les demandes, fait le travail parfaitement.</h3>
   
     <li id="Yanis">
     <div style="display: flex; align-items: center;">

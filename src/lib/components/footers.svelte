@@ -3,7 +3,7 @@
     <a href="https://github.com/Squashhh" target="_blank">Made with ❤ Squash</a>
     <h2>©2023</h2>
   </div>
-  <img src="/GitHub.png" alt="GitHub" id="GitHub">
+  <a href="https://github.com/Squashhh"><img src="/GitHub.png" alt="GitHub" id="GitHub"></a>
 </ul>
 
 <style>
@@ -36,8 +36,6 @@
     margin: 0;
     color: #ffffff6c;
   }
-
-
 
   ul {
     background: #181818;
