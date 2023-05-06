@@ -1,6 +1,6 @@
 <ul style="display: flex; align-items: center;">
   <div>
-    <a href="https://github.com/Squashhh" target="_blank">Made by ❤ Squash</a>
+    <a href="https://github.com/Squashhh" target="_blank">Made with ❤ Squash</a>
     <h2>©2023</h2>
   </div>
   <img src="/GitHub.png" alt="GitHub" id="GitHub">
