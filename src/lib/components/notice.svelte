@@ -1,28 +1,31 @@
 <ul class="people-list">
-  <li id="Vincent">
+
+  <li id="cookiesbaba">
     <div style="display: flex; align-items: center;">
-      <img src="/Squash.png" alt="Vincent Véron" id="people">
-      <h1 style="margin-right: 20px;">Vincent Véron</h1>
+      <img src="/cookiesbaba.png" alt="cookiesbaba" id="people">
+      <h1 style="margin-right: 20px;">cookies/baba</h1>
     </div>
-    <h2>06/05/2023</h2>
-    <img src="/four.png" alt="Vincent Véron Notice" id="notice">
-    <h3>Je suis plus que satisfait de ma commande, le produit est exactement ce que je recherchais. Je n'hésiterai pas à revenir pour mes futurs achats.</h3>
-    <li id="Camille">
+    <h2>18/04/2023</h2>
+    <img src="/five.png" alt="cookiesbaba Notice" id="notice">
+    <h3>Écoute tous les demandes, fait le travail parfaitement.</h3>
+  
+    <li id="Yanis">
     <div style="display: flex; align-items: center;">
-      <img src="/Squash.png" alt="Camille Dugas" id="people">
-      <h1 style="margin-right: 20px;">Camille Dugas</h1>
+      <img src="/Yanis.png" alt="Yanis" id="people">
+      <h1 style="margin-right: 20px;">Yanis</h1>
     </div>
-    <h2>07/05/2023</h2>
-    <img src="/two.png" alt="Camille Dugas Notice" id="notice">
-    <h3>Je suis plus que satisfait de ma commande, le produit est exactement ce que je recherchais. Je n'hésiterai pas à revenir pour mes futurs achats.</h3>
+    <h2>18/04/2023</h2>
+    <img src="/five.png" alt="Yanis Notice" id="notice">
+    <h3>Une attente de la part de squash du fait de mon inactivité. Le travail de toutes beautés, un traitement d'images dignes d'un professionnalisme expérimenté. En attente de ma prochaine commande.</h3>
   </li>
-  <li id="Gaëtan">
+
+  <li id="Wyze">
     <div style="display: flex; align-items: center;">
-      <img src="/Squash.png" alt="Gaëtan Huszovits" id="people">
-      <h1 style="margin-right: 20px;">Gaëtan Huszovits</h1>
+      <img src="/Wyze.png" alt="Wyze" id="people">
+      <h1 style="margin-right: 20px;">Wyze</h1>
     </div>
-    <h2>08/05/2023</h2>
-    <img src="/four.png" alt="Gaëtan Huszovits Notice" id="notice">
+    <h2>23/04/2023</h2>
+    <img src="/five.png" alt="Wyze Notice" id="notice">
     <h3>Je suis plus que satisfait de ma commande, le produit est exactement ce que je recherchais. Je n'hésiterai pas à revenir pour mes futurs achats.</h3>
   </li>
 </ul>
@@ -36,7 +39,7 @@
     margin: 0;
   }
 
-  #Vincent, #Camille, #Gaëtan {
+  #cookiesbaba, #Yanis, #Wyze {
     display: inline-block;
     margin: 0 50px;
     width: 600px;
