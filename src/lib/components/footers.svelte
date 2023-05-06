@@ -1,25 +1,51 @@
-<ul style="display: flex; align-items: center">
-    <pre>Made with ❤ Squash
-            ©2023</pre>
+<ul style="display: flex; align-items: center;">
+  <div>
+    <a href="https://github.com/Squashhh" target="_blank">Made by ❤ Squash</a>
+    <h2>©2023</h2>
+  </div>
+  <img src="/GitHub.png" alt="GitHub" id="GitHub">
 </ul>
 
 <style>
 
-  pre {
-    justify-content: center;
-    font-size: 16px;
-    font-family: "Inter", sans-serif;
-    text-align: start;
-    color: #FFFFFF;
-    margin-right: 10px;
+  img {
+    margin-left: 8px;
+    margin-bottom: 16px;
   }
 
-  ul {
+  a {
     font-family: "Inter", sans-serif;
-    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    color: #ffffff6c;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #ffffff;
+  }
+
+
+  h2 {
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    color: #ffffff6c;
+  }
+
+
+
+  ul {
     background: #181818;
     height: 95px;
     margin: 0px;
     padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 </style>

@@ -4,12 +4,15 @@
     import Me from '$lib/components/me.svelte';
     import Contact from '$lib/components/contact.svelte';
     import Pictures from '$lib/components/pictures.svelte';
+    import Notice from '$lib/components/notice.svelte';
 </script>
 
 <NavBar/>
 <Me/>
 <div class="bar"></div>
 <Pictures/>
+<div class="bar"></div>
+<Notice/>
 <div class="bar"></div>
 <Contact/>
 <Footers/>

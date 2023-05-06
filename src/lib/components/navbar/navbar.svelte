@@ -3,13 +3,19 @@
 </script>
 
 <nav style="display: flex; align-items: center">
-  <img src={Icon} alt="Icon">
-  <a href="https://sketchfab.com/Squashhh" target="_blank">SKETCHFAB</a>
-  <h1 id="section-1">EXPOSURE</h1>
-  <h1>CONTACT</h1>
+  <img src={Icon} alt="Icon" id="Icon">
+  <div style="display: flex; align-items: center">
+    <a href="https://sketchfab.com/Squashhh" target="_blank">SKETCHFAB</a>
+    <h1 id="section-1">EXPOSURE</h1>
+    <h1>CONTACT</h1>
+  </div>
 </nav>
   
 <style>
+
+  div {
+    margin-left: auto;
+  }
 
   img {
     justify-content: left;
