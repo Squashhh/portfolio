@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <ul style="display: flex; align-items: center;">
   <div>
     <h1>VINCENT V.</h1>

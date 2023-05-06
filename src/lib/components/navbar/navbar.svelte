@@ -1,12 +1,11 @@
 <script>
-  import '$lib/styles/font.css'
   import Icon from '/Icon.png';
 </script>
 
 <nav style="display: flex; align-items: center">
   <img src={Icon} alt="Icon">
   <a href="https://sketchfab.com/Squashhh" target="_blank">SKETCHFAB</a>
-  <h1>EXPOSURE</h1>
+  <h1 id="section-1">EXPOSURE</h1>
   <h1>CONTACT</h1>
 </nav>
   
@@ -29,8 +28,7 @@
     cursor: pointer;
     text-decoration: none;
     font-weight: bold;
-}
-
+  }
   
   h1 {
     text-align: right;
@@ -42,6 +40,9 @@
     cursor: pointer;
   }
 
+  a:hover {
+    color: #a19e9e;
+  }
 
   h1:hover {
     color: #a19e9e;

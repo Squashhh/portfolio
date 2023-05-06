@@ -4,7 +4,6 @@
     import Me from '$lib/components/me.svelte';
     import Contact from '$lib/components/contact.svelte';
     import Pictures from '$lib/components/pictures.svelte';
-    import '$lib/styles/font.css'
 </script>
 
 <NavBar/>

@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <ul>
   <h1>CONTACT</h1>
   <h2>squash.mail.pro@gmail.com</h2>
