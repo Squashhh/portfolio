@@ -36,6 +36,7 @@
   </style>
 </head>
 
+<section id= "exposure">
 <body>
   <iframe id="model" width="330" height="180"></iframe>
   <div class="model-selector"></div>
@@ -74,3 +75,4 @@
     }
   </script>
 </body>
+</section>

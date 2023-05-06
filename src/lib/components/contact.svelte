@@ -1,3 +1,4 @@
+<section id = 'contact'>
 <ul>
   <h1>CONTACT</h1>
   <div class="contact-info">
@@ -9,6 +10,7 @@
     <h3>Squash#2007</h3>
   </div>
 </ul>
+</section>
 
 <style>
   h1 {
