@@ -5,7 +5,7 @@
 
 <nav style="display: flex; align-items: center">
   <img src={Icon} alt="Icon">
-  <h1>SKETCHFAB</h1>
+  <a href="https://sketchfab.com/Squashhh" target="_blank">SKETCHFAB</a>
   <h1>EXPOSURE</h1>
   <h1>CONTACT</h1>
 </nav>
@@ -17,11 +17,25 @@
     margin-left: 32px;
     margin-right: 32px;
   }
+
+  a {
+    display: block;
+    text-align: right;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+    margin-right: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
+
   
   h1 {
     text-align: right;
     font-size: 20px;
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     color: #FFFFFF;
     margin-right: 30px;
     margin-left: 30px;

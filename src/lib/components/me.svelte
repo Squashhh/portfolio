@@ -20,11 +20,13 @@
   }
 
   h1 {
+    font-family: "Inter", sans-serif;
     color: #FFFFFF;
     font-size: 20px;
   }
 
   h2 {
+    font-family: "Inter", sans-serif;
     color: #ffffff6c;
     font-size: 16px;
   }

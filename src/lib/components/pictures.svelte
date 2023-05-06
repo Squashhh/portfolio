@@ -22,8 +22,10 @@
 ];
 let showThumbs=false
 let showCaptions=false
+let showIndicators=false
+let slideControls=false
 </script>
 
 <div class="max-w-4xl" style="display: flex; justify-content: center; align-items: center;">
-  <Carousel {images} loop {showCaptions} {showThumbs}/>
+  <Carousel {images} loop {showCaptions} {showThumbs} {showIndicators} {slideControls}/>
 </div>

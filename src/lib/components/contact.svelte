@@ -12,10 +12,12 @@
   h1 {
     color: #FFFFFF;
     font-size: 20px;
+    font-family: "Inter", sans-serif;
   }
 
   h2 {
     color: #ffffff6c;
     font-size: 16px;
+    font-family: "Inter", sans-serif;
   }
 </style>

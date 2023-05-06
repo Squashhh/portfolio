@@ -14,13 +14,14 @@
   h1 {
     justify-content: center;
     font-size: 16px;
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     text-align: start;
     color: #FFFFFF;
     margin-right: 10px;
   }
 
   ul {
+    font-family: "Inter", sans-serif;
     justify-content: center;
     background: #181818;
     height: 95px;
