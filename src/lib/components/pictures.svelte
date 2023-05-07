@@ -42,7 +42,7 @@
   <div class="model-selector"></div>
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script>
-    axios.get("https://sketchfab.com/v3/search?type=models&user=Enely_").then(response => {
+    axios.get("https://sketchfab.com/v3/search?type=models&user=Squashhh").then(response => {
       let models = [];
       response.data.results.forEach(result => {
         models.push({name: result.name, embed: result.embedUrl, image: result.thumbnails.images[1].url}); 
