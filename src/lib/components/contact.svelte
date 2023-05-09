@@ -13,10 +13,6 @@
 </section>
 
 <style>
-  #contact {
-    width: 100%;
-  }
-
   h1 {
     color: #FFFFFF;
     font-size: 20px;
