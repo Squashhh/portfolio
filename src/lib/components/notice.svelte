@@ -8,9 +8,8 @@
     <h2>18/04/2023</h2>
     <img src="/five.png" alt="cookiesbaba Notice" id="notice">
     <h3>Écoute tous les demandes, fait le travail parfaitement.</h3>
-  </li>
-
-  <li id="Yanis">
+  
+    <li id="Yanis">
     <div style="display: flex; align-items: center;">
       <img src="/Yanis.png" alt="Yanis" id="people">
       <h1 style="margin-right: 20px;">Yanis</h1>
@@ -29,7 +28,6 @@
     <img src="/five.png" alt="Wyze Notice" id="notice">
     <h3>Je suis plus que satisfait de ma commande, le produit est exactement ce que je recherchais. Je n'hésiterai pas à revenir pour mes futurs achats.</h3>
   </li>
-
 </ul>
 
 <style>
@@ -39,25 +37,6 @@
     list-style: none;
     padding: 0;
     margin: 0;
-    max-height: 400px;
-    overflow-y: auto;
-    scrollbar-width: thin;
-    scrollbar-color: #555555 #1C1C1C;
-  }
-
-  .people-list::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-    background-color: #1C1C1C;
-  }
-
-  .people-list::-webkit-scrollbar-thumb {
-    background-color: #555555;
-    border-radius: 5px;
-  }
-
-  .people-list::-webkit-scrollbar-track {
-    background-color: #1C1C1C;
   }
 
   #cookiesbaba, #Yanis, #Wyze {
