@@ -5,6 +5,7 @@
 <nav style="display: flex; align-items: center">
   <img src={Icon} alt="Icon" id="Icon">
   <div style="display: flex; align-items: center">
+    <a href="https://discord.gg/hMNCPGgwMc" target="_blank">DISCORD</a>
     <a href="https://sketchfab.com/Squashhh" target="_blank">SKETCHFAB</a>
     <a href="#exposure">EXPOSURE</a>
     <a href="#contact">CONTACT</a>
