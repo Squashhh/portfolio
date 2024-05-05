@@ -23,8 +23,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <SpeedInsights/>
-      <Analytics/>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
@@ -32,7 +30,10 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >{children}
-        </ThemeProvider></body>
+        </ThemeProvider>
+        <SpeedInsights />
+        <Analytics />
+      </body>
     </html>
   );
 }
