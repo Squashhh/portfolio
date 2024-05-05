@@ -13,7 +13,7 @@ export function Skills() {
           <Badge variant="outline" className="hover:border-neutral-400 cursor-pointer">React</Badge>
         </a>
         <a href="https://tailwindcss.com/" target="_blank">
-          <Badge variant="outline" className="hover:border-neutral-400cursor-pointer">Tailwind CSS</Badge>
+          <Badge variant="outline" className="hover:border-neutral-400 cursor-pointer">Tailwind CSS</Badge>
         </a>
         <a href="https://nextjs.org/" target="_blank">
           <Badge variant="outline" className="hover:border-neutral-400 cursor-pointer">Next JS</Badge>
